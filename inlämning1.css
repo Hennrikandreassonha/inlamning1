@@ -12,7 +12,6 @@ body {
   background-color: lightblue;
   margin: auto;
   padding: 1rem;
-  /* padding-bottom:fill; */
 }
 .gold {
   color: rgb(228, 194, 1);
@@ -95,15 +94,5 @@ footer > * {
   }
   #awards-movies h2 {
     text-align: start;
-  }
-  #movies {
-    max-height: 20rem;
-  }
-  ul h2 {
-    display: block;
-    margin-bottom: 1rem;
-  }
-  #award-titles {
-    display: none;
   }
 }
